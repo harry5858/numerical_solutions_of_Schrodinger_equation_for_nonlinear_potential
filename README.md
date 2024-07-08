@@ -1,0 +1,1 @@
+# numerical_solutions_of_Schrodinger_equation_for_nonlinear_potential
